@@ -11,3 +11,7 @@ Real-time terminal UI for viewing Polymarket prediction market order books via W
 ```
 npm install && npm start
 ```
+
+## Author
+
+[Harish Garg](https://x.com/Nibberloo)
